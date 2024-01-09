@@ -43,7 +43,7 @@
 
 <div id="user-content-toc">
   <ul align="center">
-    <a href="https://akademi.robolinkmarket.com/author/barkin-sarikartal/" target="blank"><img align="center" src="https://github.com/barkinsarikartal/Barkin-Sarikartal/blob/d7d8531a6ea8c3c774c713337a0a3a6fbf32cc85/RLT1_Logo-309x90-Copy.jpg" alt="RobolinkAkademi" height="90" width="310" /></a>
+    <a href="https://akademi.robolinkmarket.com/author/barkin-sarikartal/" target="blank"><img align="center" src="https://github.com/barkinsarikartal/barkinsarikartal/blob/95beba33a2451d2818a4ea87eef9910441c4d8cf/RLT1_Logo-309x90-Copy.jpg" alt="RobolinkAkademi" height="90" width="310" /></a>
   </ul>
 </div>
 
