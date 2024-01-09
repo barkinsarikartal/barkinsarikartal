@@ -1,16 +1,60 @@
-### Hi there 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi</h1>
+    <h1 style="display: inline-block">,  My Name is Barkın Sarıkartal</h1>
+    </summary>
+  </ul>
+</div>
 
-<!--
-**barkinsarikartal/barkinsarikartal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌍 I'm based in Ankara/Turkey
 
-Here are some ideas to get you started:
+- 📚 I'm studying Computer Engineering at Çankaya University (2nd Grade)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧠 I'm currently learning Unity, C#, Unreal Engine, C++
+
+- ✉️ You can contact me at [barkinsarikartal51@gmail.com](barkinsarikartal51@gmail.com)
+
+<div style="display: flex; justify-content: space-between;">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=barkinsarikartal&\&rank_icon=github" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=barkinsarikartal&layout=compact&langs_count=8&card_width=320" />
+  </a>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Skills</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal,arduino,cs,cpp&perline=8" />
+  </a>
+</p>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">My Arduino Contents</h2></summary>
+  </ul>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <a href="https://akademi.robolinkmarket.com/author/barkin-sarikartal/" target="blank"><img align="center" src="https://github.com/barkinsarikartal/Barkin-Sarikartal/blob/d7d8531a6ea8c3c774c713337a0a3a6fbf32cc85/RLT1_Logo-309x90-Copy.jpg" alt="RobolinkAkademi" height="90" width="310" /></a>
+  </ul>
+</div>
+
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h2 style="display: inline-block">Socials</h2></summary>
+  </ul>
+</div>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/barkinsarikartal/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
+<a href="https://www.twitter.com/barkinsanazor/" target="blank"><img align="center" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" alt="twitter" height="50" width="50" /></a>
+<a href="https://www.instagram.com/barkinsarikartal.mpeg/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="instagram" height="50" width="50" /></a>
+</p>
