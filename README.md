@@ -1,7 +1,7 @@
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h1 style="display: inline-block">Hi</h1>
-    <h1 style="display: inline-block">,  My Name is Barkın Sarıkartal</h1>
+    <summary><h1 style="display: inline-block">Hi,</h1>
+    <h1 style="display: inline-block">My Name is Barkın Sarıkartal</h1>
     </summary>
   </ul>
 </div>
