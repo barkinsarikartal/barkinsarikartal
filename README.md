@@ -21,6 +21,11 @@
   <a href="https://github.com/anuraghazra/convoychat">
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=barkinsarikartal&layout=compact&langs_count=8&card_width=320" />
   </a>
+  <ul align="center">
+    <a>
+      <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=barkinsarikartal&" alt="barkinsarikartal"/>
+    </a>
+  </ul>
 </div>
 
 <div id="user-content-toc">
