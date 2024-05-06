@@ -12,7 +12,7 @@
 
 - 🧠 I'm currently learning Unity, C#, Unreal Engine, C++
 
-- ✉️ You can contact me at [barkinsarikartal51@gmail.com](mailto:barkinsarikartal51@gmail.com)
+- ✉️ You can contact me at [sarikartalbarkin@gmail.com](mailto:sarikartalbarkin@gmail.com)
 
 <div style="display: flex; justify-content: space-between;">
   <ul align="center">
