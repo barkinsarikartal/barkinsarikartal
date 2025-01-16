@@ -8,7 +8,7 @@
 
 - 🌍 I'm based in Ankara/Turkey
 
-- 📚 I'm studying Computer Engineering at Çankaya University (2nd Grade)
+- 📚 I'm studying Computer Engineering at Çankaya University (3rd Grade)
 
 - 🧠 I'm currently learning Unity, C#, Unreal Engine, C++
 
