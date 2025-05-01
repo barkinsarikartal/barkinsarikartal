@@ -1,22 +1,8 @@
-<div id="user-content-toc">
-  <ul align="center">
-    <summary><h1 style="display: inline-block">Hi,</h1>
-    <h1 style="display: inline-block">My Name is Barkın Sarıkartal</h1>
-    </summary>
-  </ul>
-</div>
-
 - 🌍 Ankara/Türkiye
 
 - 📚 Studying Computer Engineering at Çankaya University (3rd Grade)
 
 - ✉️ Contact: [sarikartalbarkin@gmail.com](mailto:sarikartalbarkin@gmail.com)
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal,arduino,cs,cpp&perline=8" />
-  </a>
-</p>
 
 <div id="user-content-toc">
   <ul align="center">
